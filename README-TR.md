@@ -54,6 +54,7 @@ Tüm Açık Topluluk destekçilerimize teşekkür ederiz!
 
 Tüm sponsorlarımıza teşekkürler! (Lütfen şirketinizden bu açık kaynak projesini [sponsor olarak](https://opencollective.com/ifme#sponsor)) desteklemesini isteyin.
 
+
 <section role="presentation">
   <a href="https://opencollective.com/ifme/sponsor/0/website" target="_blank"><img src="https://opencollective.com/ifme/sponsor/0/avatar.svg"></a>
   <a href="https://opencollective.com/ifme/sponsor/1/website" target="_blank"><img src="https://opencollective.com/ifme/sponsor/1/avatar.svg"></a>
