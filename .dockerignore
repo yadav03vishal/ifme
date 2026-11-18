@@ -8,7 +8,7 @@ git-hooks
 # logfiles and tempfiles
 coverage
 tmp
-log
+log 
 **/*.log
 **/npm-debug.log*
 
