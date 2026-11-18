@@ -9,7 +9,7 @@ jobs:
       PRIVADO_API_TOKEN: "apiad132b08ddc9b3997ed3e08e60b7da568d415aac757c00971a"
       PRIVADO_API_ID: "0be3e94d-df21-44c6-b224-6f9c0f979a19"
       PRIVADO_API_HOST: "https://t.api.code.privado.ai/test"
-      PRIVADO_CI_PLATFORM: "GITHUB_ACTIONS"
+      PRIVADO_CI_PLATFORM: "GITHUB_ACTIONS" 
       PRIVADO_DOCKER_IMAGE: 638117407428.dkr.ecr.ap-south-1.amazonaws.com/scanner-agent:latest
       PRIVADO_REPOSITORY_ID: ${{ github.repository_id }}
       PRIVADO_REPOSITORY_NAME: ${{ github.repository }}
